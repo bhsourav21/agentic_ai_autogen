@@ -1,0 +1,16 @@
+Expression: 5 * 4 + 3 - 8
+
+Step 1: Multiplication
+  5 * 4 = 20
+
+Step 2: Substitute back: 20 + 3 - 8
+
+Step 3: Addition
+  20 + 3 = 23
+
+Step 4: Substitute back: 23 - 8
+
+Step 5: Final Calculation
+  23 - 8 = 15
+
+Final Result: 15

@@ -1,0 +1,1 @@
+{"type": "AssistantAgentState", "version": "1.0.0", "llm_context": {"messages": [{"content": "My favourite color is blue", "source": "user", "type": "UserMessage"}, {"content": "That's great! Blue is a beautiful and calming color. Do you have a specific shade of blue that you like the most?", "thought": null, "source": "Helper", "type": "AssistantMessage"}]}}
